@@ -1,0 +1,15 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+table {
+    border-collapse: collapse;
+}
+
+/* remove padding */
+th, td {
+    padding: 0;
+    border-bottom-style: none;
+}
+
