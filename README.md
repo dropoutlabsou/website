@@ -6,7 +6,7 @@ Dropout Labs is a tight-nit group of young specialists, offering bespoke solutio
 
 |---------------------------------------+-----------------------------------------------------|
 | Sepapaja tn 6, Tallinn 15551, Estonia | [team@dropoutlabs.com](mailto:team@dropoutlabs.com) |
-| [+3727123771](tel:+3727123771)        |                                                     |
+| [+372 8840023](tel:+372 8840023)        |                                                     |
 |                                       |                                                     |
 
 
