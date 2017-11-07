@@ -1,6 +1,6 @@
 ## These are the droids you're looking for
 
-Dropout Labs is a tight-nit group of young specialists, offering bespoke solutions and consulting services in quantitative modeling.
+Dropout Labs is a tight-nit group of young specialists, offering bespoke solutions and consulting services in operational analytics.
 
 ### Contact
 
